@@ -6,5 +6,5 @@ Desafio GitFav fornecido pela Rocketseat, nesse desafio foi desenvolvido um Apli
     
 ## 🔗 Link do Projeto
 ### Clique na imagem abaixo para abrir o projeto!
-[![page](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSModCKusy7bToHrB2oGB8YDPmshPYKkVcrZw&usqp=CAU)](https://carloslonghi.github.io/GitFav-API/)
+[![page](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSModCKusy7bToHrB2oGB8YDPmshPYKkVcrZw&usqp=CAU)](https://carloslonghi.github.io/GitFav-App/)
 
